@@ -1,6 +1,6 @@
-# ArduPlane SIL Connector for Simulink
+# ArduPilot SIL Connector for Simulink
 
-Simulink C++ S-function for software-in-the-loop simulation with ArduPlane.
+Simulink C++ S-function for software-in-the-loop simulation with ArduPilot.
 
 [![View ardupilot-sil-connector on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]()
 
@@ -17,7 +17,7 @@ Files
 [make.m](https://github.com/aviumtechnologies/ardupilot-sil-connector/blob/master/make.m)
 <div style="height:1px; background-color:rgba(0,0,0,0.12);"></div>
 
-[includes.zip](https://github.com/aviumtechnologies/ardupilot-sil-connector/blob/master/includes.zip) (contains the Asio C++ and MAVLink C libraries)
+[includes.zip](https://github.com/aviumtechnologies/ardupilot-sil-connector/blob/master/includes.zip) (contains the Asio C++ library)
 <div style="height:1px; background-color:rgba(0,0,0,0.12);"></div>
 
 Build instructions
